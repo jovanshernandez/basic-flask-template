@@ -6,11 +6,11 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 app_data = {
-    "name":         "Peter's Starter Template for a Flask Web App",
+    "name":         "BBI RND Template for a Flask Web App",
     "description":  "A basic Flask app using bootstrap for layout",
-    "author":       "Peter Simeth",
-    "html_title":   "Peter's Starter Template for a Flask Web App",
-    "project_name": "Project name",
+    "author":       "BBI DevOps",
+    "html_title":   "A template for a Flask Web App",
+    "project_name": "RND Web App Demo",
     "keywords":     "flask, webapp, template, basic"
 }
 
