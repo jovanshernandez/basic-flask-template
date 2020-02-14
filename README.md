@@ -6,7 +6,7 @@ A barebone Flask app using Flask and Bootstrap.
 Make sure you have Python installed
 
 ```sh
-$ git clone https://github.com/petersimeth/basic-flask-template.git # or clone your own fork
+$ git clone https://github.com/jovanshernandez/basic-flask-template # or clone your own fork
 $ cd basic-flask-template
 $ pip install -r requirements.txt
 $ python app.py
